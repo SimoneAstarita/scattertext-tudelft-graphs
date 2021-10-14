@@ -13,3 +13,7 @@
 ## Header 3
 
 ![Graph3](/scattertext-tudelft-graphs/Technology, Policy and Management VS Industrial Design Engineering .html)
+
+## Header 4
+
+![Graph4](/scattertext-tudelft-graphs/Applied Sciences VS Architecture .html)
